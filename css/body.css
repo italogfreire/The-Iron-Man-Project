@@ -1,0 +1,19 @@
+body{
+  height: 100vh;
+
+
+  background: linear-gradient(90deg, #000, #000c 30%, #000a 50%, #000a), 
+  url(../images/background.jpg);
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+  background-color: #000;
+  background-position: 200px;
+
+
+  display: flex;
+  flex-direction: column;
+
+  padding: 60px 100px 60px 100px;  
+}
